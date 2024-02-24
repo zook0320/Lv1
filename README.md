@@ -8,7 +8,7 @@ Working 영역 Done 영역으로 구성되어있습니다
 Done 영역으로 이동한 카드는 취소 버튼을 누르면 Working 영역으로 이동합니다
 
 #컴포넌트
-
+```
 src/
 ├─ components/
 │  ├─ TodoCard.js
@@ -17,3 +17,4 @@ src/
 ├─ pages/
 │  └─ TodoList.jsx
 └─ app.js
+```
